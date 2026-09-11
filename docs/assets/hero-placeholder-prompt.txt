@@ -1,0 +1,12 @@
+Use case: product-mockup
+Asset type: replaceable 4:5 mobile-first ecommerce hero placeholder for uniCommerce
+Primary request: premium streetwear editorial product photograph for a fashion shop prototype
+Scene/backdrop: quiet off-white plaster studio, long soft window shadows, no scenery competing with the garment
+Subject: one adult fashion model, full-body, wearing an unbranded heavyweight charcoal-black hoodie and relaxed dark trousers; garment construction and silhouette are the focus
+Style/medium: high-end contemporary fashion editorial photography, real camera texture, restrained and tactile
+Composition/framing: vertical 4:5 portrait, model occupies approximately 70% of the frame, calm negative space at the top and sides for an overlaid navigation; do not crop hands or shoes
+Lighting/mood: diffused northern daylight, elegant matte contrast, calm and architectural
+Color palette: warm chalk white, charcoal, muted stone
+Materials/textures: heavyweight brushed cotton, plaster, concrete floor
+Text (verbatim): none
+Constraints: generic placeholder imagery only, no logo, no visible brand mark, no words, no watermark, no recognizable public figure, no shopping UI

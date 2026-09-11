@@ -1,0 +1,3 @@
+-- No se crean productos, precios, stock, envíos ni impuestos ficticios.
+-- Después de migrar, configura `app_settings` y `shipping_methods`, y carga el catálogo real desde Supabase.
+-- El storefront usa datos de demostración sólo mientras no existan variables públicas de Supabase.
